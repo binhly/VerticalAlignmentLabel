@@ -30,7 +30,7 @@ This is a simple library that allows vertical alignment of UILabel.
   s.source           = { :git => 'https://github.com/darquro/VerticalAlignmentLabel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '15.0'
 
   s.source_files = 'VerticalAlignmentLabel/Classes/**/*'
 
